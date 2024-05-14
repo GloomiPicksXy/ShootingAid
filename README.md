@@ -6,8 +6,8 @@ The Autotime.py is the source
 Autotime.exe is still the same but converted into exe
 
 # HOW TO USE?
-1. Download Autotime.exe
-2. Open it
+1. Click Release
+2. Download the EXE
 3. Get into any roblox hoop game make sure it has shooting mechanics [ex. highschool hoop demo]
 4. After that you're done
 
